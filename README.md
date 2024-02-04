@@ -25,7 +25,7 @@ This is my implementation of the Minishell project as part of the curriculum at 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/manugonz42/minishell.git
+    git clone git@github.com:manugonz42/minishell.git minishell
     cd minishell
     ```
 
